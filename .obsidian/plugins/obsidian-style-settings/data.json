@@ -1,0 +1,13 @@
+{
+  "anuppuccin-theme-settings@@anuppuccin-theme-light": "ctp-latte",
+  "anuppuccin-theme-settings@@anuppuccin-theme-accents": "ctp-accent-rosewater",
+  "anuppuccin-theme-settings@@anuppuccin-accent-toggle": true,
+  "anuppuccin-theme-settings@@anuppuccin-theme-dark": "ctp-mocha",
+  "shimmering-focus@@normal-tab-bar": false,
+  "shimmering-focus@@hide-inline-title-when-more-than-one-tab": false,
+  "shimmering-focus@@bg-hue-dark": 230,
+  "shimmering-focus@@angular-shapes": true,
+  "shimmering-focus@@show-close-buttons": true,
+  "shimmering-focus@@show-new-tab-button": false,
+  "shimmering-focus@@show-sidebar-header-buttons": true
+}
