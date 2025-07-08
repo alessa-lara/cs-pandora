@@ -3,5 +3,6 @@
   "obsidian-git",
   "homepage",
   "obsidian-linter",
-  "obsidian-style-settings"
+  "obsidian-style-settings",
+  "link-headers-directly"
 ]
