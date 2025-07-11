@@ -1,35 +1,35 @@
 ## ARQUITETURA
 
 1. [[Representação binária]]
-	1. Sinal-Magnitude
-	2. Complemento de 1
-	3. Complemento de 2
-	4. Ponto flutuante
+	1. [[Representação binária#Sinal-Magnitude]]
+	2. [[Representação binária#Complemento de 1]]
+	3. [[Representação binária#Complemento de 2]]
+	4. [[Representação binária#Ponto flutuante]]
 2. [[Operações binárias]]
-	1. Adição
-	2. Operações bit a bit
-	3. Subtração
-	4. Multiplicação
-	5. Divisão
+	1. [[Operações binárias#Adição]]
+	2. [[Operações binárias#Operações bit a bit]]
+	3. [[Operações binárias#Subtração]]
+	4. [[Operações binárias#Multiplicação]]
+	5. [[Operações binárias#Divisão]]
 3. [[Circuitos]]
-	1. Elétricos
-	2. Eletrônicos
+	1. [[Circuitos#Elétricos]]
+	2. [[Circuitos#Eletrônicos]]
 		1. Semicondutores
 			1. Transistores MOSFET
 4. [[Sinais]]
-	1. Analógico
-	2. Digital
+	1. [[Sinais#Analógico]]
+	2. [[Sinais#Digital]]
 5. [[Diagramas]]
-	1. Portas lógicas
-6. [[Circuitos]]
-	1. Combinacionais
-	2. Sequenciais
+	1. [[Diagramas#Portas lógicas]]
+6. [[Circuitos Eletrônicos]]
+	1. [[Circuitos Eletrônicos#Combinacionais]]
+	2. [[Circuitos Eletrônicos#Sequenciais]]
 		1. Assíncrono
 		2. Síncrono
 			1. Clock
 		3. Latch
 		4. Flip-Flops
-	3. Simplificação
+	3. [[Circuitos Eletrônicos#Simplificação]]
 		1. Álgebra de Boole
 		2. Teorema de De Morgan
 		3. Mapas de Karnaugh
