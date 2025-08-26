@@ -1,4 +1,5 @@
 {
   "vimMode": true,
-  "showIndentGuide": false
+  "showIndentGuide": false,
+  "alwaysUpdateLinks": true
 }
