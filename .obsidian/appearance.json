@@ -1,4 +1,5 @@
 {
   "theme": "obsidian",
-  "cssTheme": "Shimmering Focus"
+  "cssTheme": "Shimmering Focus",
+  "baseFontSize": 18
 }
