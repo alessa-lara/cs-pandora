@@ -14,11 +14,11 @@ O grau do polinômio é relacionado com a forma que o gráfico de sua função a
 
 Exemplos de gráficos de funções polinomiais:
 $$2x+1$$
-![[2x+1.svg]]
+![[reta.svg]]
 $$x^{2}+2x+1$$
-![[x^2+2x+1.svg]]
+![[parabola.svg]]
 $$x^{3}+2x^{2}+1$$
-![[x^3+2x^2+1.svg]]
+![[cubica.svg]]
 
 ## Função Linear
 $$y=mx+c$$
